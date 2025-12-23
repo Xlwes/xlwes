@@ -1,16 +1,11 @@
-## Hi there 👋
+<h1 align="center">Roki</a></h1>
 
-<!--
-**Xlwes/xlwes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/Roki-lIlI">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
+ <a href="https://github.com/Roki-lIlI">
+    <img alt="C++" title="C++" height="48" width="48" src="https://cdn.simpleicons.org/cplusplus"></a>
+ <a href="https://github.com/Roki-lIlI">
+    <img alt="npm" title="npm" height="48" width="48" src="https://cdn.simpleicons.org/dotnet"></a>
